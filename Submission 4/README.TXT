@@ -3,18 +3,17 @@ Overleaf:https://www.overleaf.com/read/xjtnsffknmbx
 
 
 Paper title:
-Artificial Neural Networks: Can They Learn
-Language Models?
+Can Artificial Neural Networks Acquire Knowledge of Language Models?
 
-Conference login link for submitted paper: https://edas.info/index.php?c=30482
+
+Conference login link for submitted paper: https://edas.info/showPaper.php?m=1570882250
 
 
 Paper submission date (to workshop/conference):3/1/2023
 
 
 
-Paper submission ID: (received) from conference/workshop:1570876045
-
+Paper submission ID: (received) from conference/workshop:1570882250
 
 
 Conference Name:EDAS
